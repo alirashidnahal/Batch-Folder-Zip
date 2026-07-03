@@ -1,1 +1,0 @@
-Windows batch script to compress every subfolder into a ZIP archive via WinRAR. Interactive prompts or full CLI flags. Optional safe deletion with confirmation layers.
