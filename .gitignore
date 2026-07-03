@@ -1,0 +1,34 @@
+# --- Test and local scratch directories ---
+bat_test/
+testzip/
+test/
+tmp/
+temp/
+
+# --- Generated archives ---
+*.zip
+*.rar
+*.7z
+
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# --- macOS (if repo is cloned on Mac) ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Logs and debug output ---
+*.log
+*.tmp
+*.bak
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*~
